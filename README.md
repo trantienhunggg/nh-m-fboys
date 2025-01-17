@@ -3,9 +3,11 @@
 # 1. Requirements:
 ### Tên hệ thống:  
 *Hệ thống đặt phòng online.*
-###Mục đích: ### _nhằm giúp cho khách hàng có thể đặt phòng onine tiện lợi và dễ dàng._
-###Tệp khách hàng: ###_dành cho những khách hàng có nhu cầu đặt phòng online. _
-###Danh sách chức năng:  ###
+### Mục đích:
+_Nhằm giúp cho khách hàng có thể đặt phòng onine tiện lợi và dễ dàng._
+### Tệp khách hàng: ### 
+_Dành cho những khách hàng có nhu cầu đặt phòng online. _
+### Danh sách chức năng:  
 +Thanh toán online.
 +thời gian check in.
 +thời gian check out.
