@@ -1,7 +1,8 @@
 # nhom-fboys
 
 # 1. Requirements:
-### Tên hệ thống:  _Hệ thống đặt phòng online._
+### Tên hệ thống:  
+*Hệ thống đặt phòng online.*
 ###Mục đích: ### _nhằm giúp cho khách hàng có thể đặt phòng onine tiện lợi và dễ dàng._
 ###Tệp khách hàng: ###_dành cho những khách hàng có nhu cầu đặt phòng online. _
 ###Danh sách chức năng:  ###
