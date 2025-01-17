@@ -18,9 +18,9 @@ _+danh sách khách sạn, homestay._
 
 _+tìm kiếm : 2 chức năng_
 
-  _- tìm kiếm khách sạn._
+  _     - tìm kiếm khách sạn._
   
-  _- tìm kiếm homestay._
+  _     - tìm kiếm homestay._
   
 _+footer: thông tin liên lạc._ 
 
