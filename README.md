@@ -10,17 +10,17 @@ _Dành cho những khách hàng có nhu cầu đặt phòng online._
 ### Danh sách chức năng:  
 _+Thanh toán online._
 
-_+thời gian check in._
+_+Thời gian check in._
 
-_+thời gian check out._
+_+Thời gian check out._
 
-_+danh sách khách sạn, homestay._
+_+Danh sách khách sạn, homestay._
 
-_+tìm kiếm : 2 chức năng_
+_+Tìm kiếm : 2 chức năng_
 
-        *-tìm kiếm khách sạn.*
+        -Tìm kiếm khách sạn.
+
+        -Tìm kiếm homestay.
   
-        *-tìm kiếm homestay.*
-  
-_+footer: thông tin liên lạc._ 
+_+Footer: thông tin liên lạc._ 
 
